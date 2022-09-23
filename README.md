@@ -33,3 +33,7 @@ server.port=8011
 ```
 ### Langkah 4 :
 ##### setelah itu coba di buka link berikut [http://localhost:8011/hello](http://localhost:8011/hello)
+##### dan akan muncul Output seperti berikut
+```java
+Hello Latihan2!
+```

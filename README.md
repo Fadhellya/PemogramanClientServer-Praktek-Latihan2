@@ -1,9 +1,9 @@
 # PemogramanClientServer-Praktek-Latihan2
 ## Langkah - Langkah Membuat Latihan 2
 ### Langkah 1 : 
-####  Buat proyek web menggunakan link berikut [start.spring.io](https://start.spring.io/) kemudian download dan extrack dari zip menjadi file kemudian import ke dalam apache netbean
+####  Buat proyek web menggunakan link berikut [start.spring.io](https://start.spring.io/)  kemudian pilih Spring web dan kemudian bahasa java dan sesuaikan versinya dengan device kemudian isi artifactnya dan lainnya kemudian download dan extrack dari zip menjadi file kemudian import ke dalam apache netbean 
 ### Langkah 2 :
-#### Kemudian cari proyek yang bernama Latihan2ServiceApplication dibawah package com.fadhel.latihan.service kemudian pada proyek itu masukkan code berikut :
+#### Kemudian cari proyek yang bernama Latihan2ServiceApplication dibawah package com.fadhel.latihan2.service kemudian pada proyek itu masukkan code berikut :
 ```java
 package com.fadhel.latihan2service;
 
@@ -26,8 +26,10 @@ return String.format("Hello %s!", name);
 }
 }
 ```
+### Langkah 3 :
 ##### Kemudian cari proyek aplication.properties yang berada di Other Source >> src/main/resources >> <default package> >> aplication.properties kemudian masukkan code berikut :
 ```java
 server.port=8011
 ```
+### Langkah 4 :
 ##### setelah itu coba di buka link berikut [http://localhost:8011/hello](http://localhost:8011/hello)

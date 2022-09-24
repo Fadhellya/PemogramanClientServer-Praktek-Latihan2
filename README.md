@@ -34,6 +34,5 @@ server.port=8011
 ### Langkah 4 :
 ##### setelah itu coba di buka link berikut [http://localhost:8011/hello](http://localhost:8011/hello)
 ##### dan akan muncul Output seperti berikut
-```java
-Hello Latihan 2!
-```
+![2](https://user-images.githubusercontent.com/113502315/192090787-cebc6fb4-0e8a-4e53-94ec-32721ae592d7.png)
+
